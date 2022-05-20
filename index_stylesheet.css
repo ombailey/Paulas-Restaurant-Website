@@ -51,8 +51,8 @@
   display: flex;
   margin-top: 1vh;
   height: 90vh;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.1))), url("assets/cooking.png");
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1)), url("assets/cooking.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.1))), url("cooking.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1)), url("cooking.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
